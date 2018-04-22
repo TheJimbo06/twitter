@@ -1,0 +1,7 @@
+.idea
+/node_modules/
+/logs/
+/jsons/
+garbage.js
+index.js
+secret.txt

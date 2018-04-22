@@ -1,0 +1,16 @@
+{
+  "name": "twitterpromise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandr Panasiuk",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "twitter": "^1.7.1",
+    "twitter-lite": "^0.5.0"
+  }
+}
